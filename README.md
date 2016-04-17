@@ -6,4 +6,8 @@ Once a Github's username is entered, the application gets to inform user's full 
 
 This application was built in Java, using Json parser to consume API data and a http socket to connect to the url.
 
+
+
+
+
 ![example]({{site.baseurl}}//GithubApi.png)
